@@ -1,13 +1,9 @@
-# Nome do projeto
+# Touhou Shooter
+O objetivo é atirar no inimigo até zerar a barra de vida ao mesmo tempo que desvia dos tiros do inimigo
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+# Nome compledo do integrante do projeto:
 
-# Nome compledo dos integrantes do projeto:
-
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+* Eduardo Ambrosio Natal
 
 # Imagens do jogo:
 
