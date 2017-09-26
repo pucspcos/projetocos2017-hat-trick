@@ -1,4 +1,4 @@
-# Touhou Shooter
+# Shooter
 O objetivo é atirar no inimigo até zerar a barra de vida ao mesmo tempo que desvia dos tiros do inimigo
 
 # Nome compledo do integrante do projeto:
